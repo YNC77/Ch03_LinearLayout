@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ch03_LinearLayout</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phone">Phone No.</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="inputFirstNameHint">Please Enter your First Name</string>
+    <string name="inputLastNameHint">Please Enter your Last Name</string>
+    <string name="inputPhoneNoHint">Please Enter your Phone No.</string>
+    <string name="password">Password</string>
+    <string name="inputPasswordHInt">Please enter your Password</string>
+</resources>
